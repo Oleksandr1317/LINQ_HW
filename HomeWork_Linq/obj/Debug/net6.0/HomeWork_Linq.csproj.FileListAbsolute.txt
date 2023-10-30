@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\bin\Debug\net6.0\HomeWork_Linq.exe
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\bin\Debug\net6.0\HomeWork_Linq.deps.json
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\bin\Debug\net6.0\HomeWork_Linq.runtimeconfig.json
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\bin\Debug\net6.0\HomeWork_Linq.dll
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\bin\Debug\net6.0\HomeWork_Linq.pdb
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.AssemblyInfo.cs
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.dll
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\refint\HomeWork_Linq.dll
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.pdb
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\HomeWork_Linq.genruntimeconfig.cache
+C:\Users\User\Desktop\folder\C# Project\HomeWork_Linq\obj\Debug\net6.0\ref\HomeWork_Linq.dll
